@@ -1,6 +1,9 @@
 # maze
 First major project/game (Written in 2013, added to Github in 2015)
 
+### Install and Starting the game
+Clone this project, make the Makefile, then run the executable 'maze'
+
 ### HOW TO PLAY
 You are marked as an 'X' on the map. A '?' represents a place you have not yet visited. Move with WASD.
 
@@ -16,4 +19,5 @@ You have 4 statistics:
 You can also craft armor together. If you find an armor, you can press 'c' and add 2/3 the HP of the armor with the lowest HP to the other.
 
 Your goal is to make it though the maze and defeat The Gatekeeper.
+
 Good luck.
